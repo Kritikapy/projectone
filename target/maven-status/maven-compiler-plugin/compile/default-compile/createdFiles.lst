@@ -1,0 +1,9 @@
+com/ua/learning/project/model/pages/BasePage.class
+com/ua/learning/project/core/report/TestReporter.class
+com/ua/learning/project/model/entity/RegistrationForm.class
+com/ua/learning/project/model/menu/CDIMenu.class
+com/ua/learning/project/model/menu/AbcMenu.class
+com/ua/learning/project/model/Page.class
+com/ua/learning/project/model/menu/MainMenu.class
+com/ua/learning/project/model/pages/LoginPage.class
+com/ua/learning/project/core/driver/WebDriverHolder.class

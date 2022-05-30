@@ -1,0 +1,5 @@
+com/ua/learning/project/utils/test_constants/TestConstants.class
+com/ua/learning/project/utils/preconditions/Preconditions.class
+com/ua/learning/project/utils/postconditions/PostConditions.class
+com/ua/learning/project/implementation/BaseTest.class
+com/ua/learning/project/implementation/submit_registration/SubmitRegistrationTest.class

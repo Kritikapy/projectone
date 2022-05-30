@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-26T13:23:37 NPT" name="Command line suite" finished-at="2022-05-26T13:23:37 NPT" duration-ms="22">
+    <groups>
+    </groups>
+    <test started-at="2022-05-26T13:23:37 NPT" name="Command line test" finished-at="2022-05-26T13:23:37 NPT" duration-ms="22">
+      <class name="com.ua.learning.project.implementation.submit_registration.SubmitRegistrationTest">
+        <test-method is-config="true" signature="init()[pri:0, instance:com.ua.learning.project.implementation.submit_registration.SubmitRegistrationTest@4d95d2a2]" started-at="2022-05-26T13:23:37 NPT" name="init" finished-at="2022-05-26T13:23:37 NPT" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="printHashCode()[pri:0, instance:com.ua.learning.project.implementation.submit_registration.SubmitRegistrationTest@4d95d2a2]" started-at="2022-05-26T13:23:37 NPT" name="printHashCode" finished-at="2022-05-26T13:23:37 NPT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printHashCode -->
+        <test-method is-config="true" signature="destroy()[pri:0, instance:com.ua.learning.project.implementation.submit_registration.SubmitRegistrationTest@4d95d2a2]" started-at="2022-05-26T13:23:37 NPT" name="destroy" finished-at="2022-05-26T13:23:37 NPT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- destroy -->
+      </class> <!-- com.ua.learning.project.implementation.submit_registration.SubmitRegistrationTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
